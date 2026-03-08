@@ -19,7 +19,7 @@ import {
   Music,
   Briefcase
 } from 'lucide-react';
-import { getChatbotResponse } from './services/chatbot';
+import { getChatbotResponse } from './services/chatbot.ts';
 
 // --- Components ---
 
